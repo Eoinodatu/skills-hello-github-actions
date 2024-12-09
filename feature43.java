@@ -1,3 +1,6 @@
+// Class: KiltonHalloweenFeature
+// This class manages the Halloween shop, 
+// and bartering rare items for credits.
 public class KiltonHalloweenFeature {
 
     public static void main(String[] args) {
